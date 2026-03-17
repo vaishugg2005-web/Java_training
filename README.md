@@ -5,23 +5,23 @@ It is useful for beginners who are starting with Java and want to practice core 
 
 🎯 Topics Covered
 🔢 Number Programs
-Armstrong Number
-Palindrome Number
-Factorial
-Fibonacci series
-HCF & LCM
+1.Armstrong Number
+2.Palindrome Number
+3.Factorial
+4.Fibonacci series
+5.GCD & LCM
 
 🔤 String Programs
-Count vowels and consonants
-String comparison
-Reverse string
+1.Count vowels and consonants
+2.String comparison
+3.Reverse string
 
 🔁 Loop & Pattern Programs
-Pyramid patterns
+1.Pyramid patterns
 
 📊 Sorting & Arrays
-Lexicographical sorting
-Basic array operations
+1.Lexicographical sorting
+2.Basic array operations
 
 🛠️ Technologies Used
 Java (Core Java)
@@ -41,5 +41,4 @@ Each program is organized into separate files for easy understanding.
 3.Compile and run the .java file
 
 🙋‍♀️ Author
-
 Vaishnavi Gaikwad
